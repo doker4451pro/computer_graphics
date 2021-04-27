@@ -1,0 +1,10 @@
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\bin\Debug\Sem3.exe.config
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\bin\Debug\Sem3.exe
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\bin\Debug\Sem3.pdb
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\obj\Debug\Sem3.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\obj\Debug\Sem3.Form1.resources
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\obj\Debug\Sem3.Properties.Resources.resources
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\obj\Debug\Sem3.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\obj\Debug\Sem3.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\obj\Debug\Sem3.exe
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem3\Sem3\obj\Debug\Sem3.pdb
