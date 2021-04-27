@@ -1,0 +1,18 @@
+C:\Users\79773\OneDrive\Рабочий стол\Grafika\3D\Forms\ClassLibraryFor3D\bin\Debug\ClassLibraryFor3D.dll
+C:\Users\79773\OneDrive\Рабочий стол\Grafika\3D\Forms\ClassLibraryFor3D\bin\Debug\ClassLibraryFor3D.pdb
+C:\Users\79773\OneDrive\Рабочий стол\Grafika\3D\Forms\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.csprojAssemblyReference.cache
+C:\Users\79773\OneDrive\Рабочий стол\Grafika\3D\Forms\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.csproj.CoreCompileInputs.cache
+C:\Users\79773\OneDrive\Рабочий стол\Grafika\3D\Forms\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.dll
+C:\Users\79773\OneDrive\Рабочий стол\Grafika\3D\Forms\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.pdb
+C:\Users\Роман\Desktop\Sem5\ClassLibraryFor3D\bin\Debug\ClassLibraryFor3D.dll
+C:\Users\Роман\Desktop\Sem5\ClassLibraryFor3D\bin\Debug\ClassLibraryFor3D.pdb
+C:\Users\Роман\Desktop\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.dll
+C:\Users\Роман\Desktop\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.pdb
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem5\ClassLibraryFor3D\bin\Debug\ClassLibraryFor3D.dll
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem5\ClassLibraryFor3D\bin\Debug\ClassLibraryFor3D.pdb
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.dll
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.pdb
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem5\ClassLibraryFor3D\obj\Debug\ClassLibraryFor3D.csprojAssemblyReference.cache
