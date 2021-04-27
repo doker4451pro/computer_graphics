@@ -1,0 +1,10 @@
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\bin\Debug\Sem2.exe.config
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\bin\Debug\Sem2.exe
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\bin\Debug\Sem2.pdb
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\obj\Debug\Sem2.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\obj\Debug\Sem2.Form1.resources
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\obj\Debug\Sem2.Properties.Resources.resources
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\obj\Debug\Sem2.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\obj\Debug\Sem2.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\obj\Debug\Sem2.exe
+C:\Users\Роман\Desktop\graphic\NotOpenGL\Sem2\Sem2\obj\Debug\Sem2.pdb
